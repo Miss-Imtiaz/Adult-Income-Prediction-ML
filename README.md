@@ -58,3 +58,8 @@ Below are the saved evaluation matrices generated from the evaluation phase:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Miss-Imtiaz/Adult-Income-Prediction-ML.git](https://github.com/Miss-Imtiaz/Adult-Income-Prediction-ML.git)
+2. **Install dependencies:**
+pip install pandas numpy matplotlib seaborn scikit-learn
+3. **Dataset:** Place the adult.csv dataset in the root directory.
+
+4. **Execution:** Open and run the Jupyter Notebook in VS Code or Google Colab.
